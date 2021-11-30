@@ -6,6 +6,8 @@
         "githubServer": "https://github.com/riyad1992/artisan-belize-server",
         "liveSite":"https://artisan-belize.web.app/",
         "img": "https://i.ibb.co/f89Wbcw/artisan.png",
+        "img2": "https://i.ibb.co/sjnjjHq/artisan2.png",
+        "img3": "https://i.ibb.co/fqjy4rM/artisan3.png",
         "technology":"Html, JavaScript, CSS, Node.js",
         "frameWork": "React, Bootstrap, Express",
         "tools": "react-router, firebase"
@@ -16,6 +18,8 @@
         "githubClient": "https://github.com/riyad1992/mac-book-pro",
         "liveSite":"https://priceless-montalcini-2a14f2.netlify.app/",
         "img": "https://i.ibb.co/qN9qCk6/macbook.png",
+        "img3": "https://i.ibb.co/c604H6q/macbook3.png",
+        "img2": "https://i.ibb.co/RNfRQ5x/macbook2.png",
         "technology":"Html, JavaScript, CSS"
     },
     {
@@ -24,6 +28,8 @@
         "githubClient": "https://github.com/riyad1992/folio",
         "liveSite":"https://riyad1992.github.io/folio/index.html",
         "img": "https://i.ibb.co/PwdCzYH/folio.png",
+        "img2": "https://i.ibb.co/tDYf1Fd/folio2.png",
+        "img3": "https://i.ibb.co/RCd0Z60/folio3.png",
         "technology":"Html, CSS"
     }
 ]
