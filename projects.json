@@ -11,8 +11,7 @@
         "technology":"Html, JavaScript, CSS, Node.js",
         "frameWork": "React, Bootstrap, Express",
         "tools": "react-router, firebase",
-        "details": "A Fully Functional full-stack web app based on MERN 
-         The project has a Dashboard panel System, Two types of dashboard Regular User Dashboard and Admin Dashboard System, for admin Login: email:- adimn@admin.com pass:- 123456 Regular Users can buy products also they can delete their orders and the admin can manage orders, manage products also"
+        "details": "A fully functional web app based on MREN. The project has a Dashboard panel System, Two types of dashboard Regular User Dashboard and Admin Dashboard System, for admin Login: email:- adimn@admin.com pass:- 123456 Regular Users can buy products also they can delete their orders and the admin can manage orders, manage products also"
     },
     {
         "id": "2",
@@ -23,9 +22,7 @@
         "img3": "https://i.ibb.co/c604H6q/macbook3.png",
         "img2": "https://i.ibb.co/RNfRQ5x/macbook2.png",
         "technology":"Html, JavaScript, CSS",
-        "details": "This Project is Based on JavaScript and Html with bootstrap CSS frameWork 
-        ● E-commerce site project 
-        ● Customers can select products configuration and the price will be updated"
+        "details": "This Project is Based on JavaScript and Html with bootstrap CSS frameWork E-commerce site project Customers can select products configuration and the price will be updated"
     },
     {
         "id": "3",
@@ -36,10 +33,9 @@
         "img2": "https://i.ibb.co/tDYf1Fd/folio2.png",
         "img3": "https://i.ibb.co/RCd0Z60/folio3.png",
         "technology":"Html, CSS",
-        "details": "● This Project is based on pure Html and CSS 
-        ● Project responsive for mobile and tablet 
-        "
+        "details": "This Project is based on pure Html and CSS Project responsive for mobile and tablet"
     }
 ]
 
-
+A Fully Functional full-stack web app based on MERN 
+         The project
